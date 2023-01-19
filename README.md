@@ -18,10 +18,14 @@ This app allows users to enter a YouTube video URL and retrieves the real-time v
 6.Open http://localhost:3000 in your browser to see the app.
 
 ## Built With
-ReactJS - JavaScript library for building user interfaces
-YouTube Data API - API for retrieving information about YouTube videos
-JavaScript - A programming language for creating interactive web pages
-HTML - A markup language for creating web pages
+ReactJS - JavaScript library for building user interfaces 
+
+YouTube Data API - API for retrieving information about YouTube videos 
+
+JavaScript - A programming language for creating interactive web pages 
+
+HTML - A markup language for creating web pages 
+
 CSS - A stylesheet language for describing the presentation of web pages
 
 ## Contributing
