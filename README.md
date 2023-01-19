@@ -6,10 +6,15 @@ This app allows users to enter a YouTube video URL and retrieves the real-time v
 
 ## Getting Started
 1.Clone the repository: git clone https://github.com/meetpateltech/video-statistics-app.git
-2.Install the dependencies: npm install or yarn install
-3.Create a project in the Google Developers Console and enable the YouTube Data API.
-4.Get an API key for the project and insert it into the app.js file, replacing YOUR_API_KEY with your key.
-5.Start the development server: npm start or yarn start
+
+2.Install the dependencies: npm install or yarn install 
+
+3.Create a project in the Google Developers Console and enable the YouTube Data API. 
+
+4.Get an API key for the project and insert it into the app.js file, replacing YOUR_API_KEY with your key. 
+
+5.Start the development server: npm start or yarn start 
+
 6.Open http://localhost:3000 in your browser to see the app.
 
 ## Built With
